@@ -1,0 +1,19 @@
+
+	Boulangerie-Baguette d'or
+	Tél: 66602010, NDjamena-Tchad
+===========================================
+Nom client: Ali Nouren
+Télephone n°: 66602010
+N° facture: 11187355		Date: 11/01/2022
+===========================================
+Nom produit			QTY	Prix
+===========================================
+        
+pain			1	FCFA700.0
+===========================================
+Montant				700.0	FCFA
+Reduction 				7.0	FCFA
+A Payer 				693.0	FCFA
+===========================================
+
+        
